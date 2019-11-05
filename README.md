@@ -13,10 +13,7 @@ Walk South Congress
 Food Touring
 Shopping at the Domain
 
-My Favorites:
-1. Paddle boarding
-2. Brewery Touring
-3. Bat Bridge 
+My Favorites include paddle boarding, Brewery Touring, and the Bat Bridge 
 
 Some ideas from outside sources:
 Top Things to do in Austin, Texas (http://www.austincityguide.com/things-to-do) 
