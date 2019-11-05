@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Things to Do in Austin
 
-You can use the [editor on GitHub](https://github.com/tylergreenwald0518/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Austin, Texas is home to some of the greatest barbeque and weather in the world, however, there is much more to do here than stock up on some brisket.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Check out these top ideas and activities to make your day the best here in Austin.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bat Bridge
+Paddle Boarding on Lady Bird Lake
+Brewery Touring
+Walk South Congress
+Food Touring
+Shopping at the Domain
 
-```markdown
-Syntax highlighted code block
+My Favorites:
+1. Paddle boarding
+2. Brewery Touring
+3. Bat Bridge 
 
-# Header 1
-## Header 2
-### Header 3
+Some ideas from outside sources:
+Top Things to do in Austin, Texas (http://www.austincityguide.com/things-to-do) 
 
-- Bulleted
-- List
+Actually Cool Things to Do in Austin (https://www.thrillist.com/entertainment/austin/things-to-do-in-austin-texas)
 
-1. Numbered
-2. List
+Best Things To Do in Austin (https://travel.usnews.com/Austin_TX/Things_To_Do/) 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tylergreenwald0518/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The weather this week and heading into the weekend is supposed to check out, so head out and explore the city of Austin!
